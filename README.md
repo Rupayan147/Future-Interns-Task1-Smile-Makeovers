@@ -19,7 +19,7 @@ Key Features
 
 In this repository, you will find:
 
-<img src="Home (Laptop).png" width="600" alt="Desktop Mockup">
+<img src="Home(Laptop).png" width="600" alt="Desktop Mockup">
 <img src="Phone.png" width="250" alt="Mobile Mockup">
 
 ## Tools Used
