@@ -1,4 +1,4 @@
-# Smile Makeovers - UI/UX Redesign
+<h1 align="center">Smile Makeovers</h1>
 ## Project Overview
 
 This project is part of my Task 1 for the Future Interns UI/UX Design Internship (January 2026). The goal was to redesign a landing page for a local service business—Smile Makeovers—with a focus on high conversion and lead generation.
