@@ -1,5 +1,5 @@
-#Smile Makeovers - UI/UX Redesign
-Project Overview
+# Smile Makeovers - UI/UX Redesign
+## Project Overview
 
 This project is part of my Task 1 for the Future Interns UI/UX Design Internship (January 2026). The goal was to redesign a landing page for a local service business—Smile Makeovers—with a focus on high conversion and lead generation.
 Design Goal
@@ -15,7 +15,7 @@ Key Features
 
     Responsive Design: The repository includes designs for both laptop and mobile views to ensure a seamless experience across devices.
 
-Project Assets
+## Project Assets
 
 In this repository, you will find:
 
@@ -25,7 +25,7 @@ In this repository, you will find:
 
     Home (Laptop).mp4: A video walkthrough of the design layout.
 
-Tools Used
+## Tools Used
 
     Figma: For UI design and prototyping.
 
