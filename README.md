@@ -19,8 +19,8 @@ Key Features
 
 In this repository, you will find:
 
- ![Smile Makeovers Desktop](Home(Laptop).png)
-![Smile Makeovers Mobile](Phone.png)
+<img src="Home (Laptop).png" width="600" alt="Desktop Mockup">
+<img src="Phone.png" width="250" alt="Mobile Mockup">
 
 ## Tools Used
 
