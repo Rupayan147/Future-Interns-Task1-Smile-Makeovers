@@ -33,7 +33,7 @@ In this repository, you will find:
     <td><b>Mobile View</b></td>
   </tr>
   <tr>
-    <td><img src="Home (Laptop).png" width="500" alt="Desktop Design"></td>
+    <td><img src="Home(Laptop).png" width="500" alt="Desktop Design"></td>
     <td><img src="Phone.png" width="200" alt="Mobile Design"></td>
   </tr>
 </table>
