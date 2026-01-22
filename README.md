@@ -19,11 +19,29 @@ Key Features
 
 In this repository, you will find:
 
-<img src="Home(Laptop).png" width="600" alt="Desktop Mockup">
-<img src="Phone.png" width="250" alt="Mobile Mockup">
+    Home (Laptop).png: High-fidelity desktop mockup.
 
+    Phone.png: Mobile-responsive design.
+
+    Home (Laptop).mp4: A video walkthrough of the design layout.
+
+## Visual Assets
+
+<table>
+  <tr>
+    <td><b>Desktop View</b></td>
+    <td><b>Mobile View</b></td>
+  </tr>
+  <tr>
+    <td><img src="Home (Laptop).png" width="500" alt="Desktop Design"></td>
+    <td><img src="Phone.png" width="200" alt="Mobile Design"></td>
+  </tr>
+</table>
+
+    
 ## Tools Used
 
     Figma: For UI design and prototyping.
 
     Canva: For asset preparation and layout adjustments.
+
